@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+h1{
+    font-family: 'Fredoka One', sans-serif;
+}
+
+
+h2{
+    font-family: 'Fredoka One', sans-serif;
+    padding-bottom: 150px;
+}
+
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#topText{
+    font-family: 'Lobster', cursive;
+    margin: 55px 0 25px;
+}
+
+
+
+#brand {
+    color: white;
+}
+
+#homepage{
+    padding: 150px 0 250px;
+    background: 
+    linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      ),
+    url("fire.jpg");
+    background-size: cover;
+    
+}
+
+
+#reviews{
+    padding: 150px 0;
+    text-align: center;
+}
+
+#refer{
+    padding: 200px;
+}
+
+
+
+.arrow:hover{
+    background: rgba(49, 46, 46, 0.507); 
+}
+
+.card{
+    color: black;
+}
+
+.revs{
+    margin: 0 650px;
+}
+
+.front-div{
+    background: rgba(102, 0, 0, 0.397);   
+    padding: 50px 0;
+}
+
+
+
+.frontPageBook{
+    width:50%;
+    height: 100%;
+    background: none;
+}
+.frontPageBook:hover{
+    background: rgba(49, 46, 46, 0.507); 
+}
+
+.revBook{
+    width:50%;
+    
+}
+
+.refer-col{
+    padding: 3% 2%;
+}
